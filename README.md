@@ -1,5 +1,5 @@
 # Customer Segmentation using RFM Analysis and K-Means Clustering
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=streamlit)](YOUR_STREAMLIT_URL)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=streamlit)](https://customer-segmentation-rfm-anurag.streamlit.app/)
 
 ## Project Overview
 This project applies RFM (Recency, Frequency, Monetary) analysis and K-Means clustering to segment customers based on their purchasing behaviour.
@@ -10,7 +10,7 @@ An interactive Streamlit dashboard allows users to explore customer segments, un
 
 Explore the interactive Customer Segmentation Dashboard:
 
-**[Launch Customer Segmentation Dashboard](YOUR_STREAMLIT_URL)**
+**[Launch Customer Segmentation Dashboard](https://customer-segmentation-rfm-anurag.streamlit.app/)**
 
 ## Dashboard Preview
 
