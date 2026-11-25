@@ -5,6 +5,20 @@ This project applies RFM (Recency, Frequency, Monetary) analysis and K-Means clu
 
 An interactive Streamlit dashboard allows users to explore customer segments, understand purchasing patterns, view business recommendations, and predict the segment of a customer using RFM values.
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Customer Segment Analysis
+![Segment Analysis](screenshots/segment_analysis.png)
+
+### Customer Explorer
+![Customer Explorer](screenshots/customer_explorer.png)
+
+### Customer Segment Prediction
+![Customer Prediction](screenshots/customer_prediction.png)
+
 ## Business Problem
 Businesses need to understand customer purchasing behaviour to improve customer retention, identify valuable customers, and design targeted marketing strategies.
 
